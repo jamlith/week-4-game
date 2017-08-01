@@ -1,0 +1,56 @@
+* {
+    box-sizing: border-box;
+
+}
+body {
+    background-image: url("../images/skulls.png");
+}
+H1 {
+    display: inline-block;
+    background-color: #C97228;
+    color: #fff;
+    margin: 5px;
+    padding: 20px 5px;
+}
+#instructions {
+    display: inline-block;
+    background-color: #FBE7CC;
+    color: #189f46;
+    width: 400px;
+    margin: 5px;
+    padding: 5px;
+    font-style: bold;
+}
+#goal {
+    background-color: #5BC880;
+    width: 200px;
+    height: 100px;
+    margin: 5px;
+    padding: 5px;
+    display: inline-block;
+    font-size: 46px;
+    float: left;
+}
+#scoreboard {
+    background-color: #80f6ef;
+    height: 100px;
+    display: inline-block;
+    margin: 5px;
+    padding: 5px;
+}
+#scorelabel {
+    display: inline-block;
+    background-color: #13938b;
+    color: #fff;
+    width: 200px;
+    margin: 5px;
+    padding: 5px;
+}
+#points {
+    display: inline-block;
+    background-color: #13938b;
+    color: #fff;
+    width: 200px;
+    margin: 0px 5px;
+    padding: 5px;
+}
